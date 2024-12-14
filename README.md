@@ -1,2 +1,2 @@
-# Olympics-Dashboard
-This project involves creating an interactive Olympics Dashboard using Power BI, designed to analyze and visualize key statistics from the Olympic Games. The dashboard provides insights into medal distributions, athlete performance, country rankings, and historical trends across various Olympic editions.
+# Olympics Dashboard
+![image](https://github.com/user-attachments/assets/6d6bf9c5-5248-4f2a-b57e-0ee71cba8cfb)
